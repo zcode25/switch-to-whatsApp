@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://zcode25.github.io/switch-to-whatsApp/">
-        <img src="https://img.shields.io/badge/version-Switch%20to%20WhatsApp%20v1.1.0-blue"/>
+        <img src="https://img.shields.io/badge/version-Switch%20to%20WhatsApp%20v1.1.0-green"/>
     </a>
 </div>
     
